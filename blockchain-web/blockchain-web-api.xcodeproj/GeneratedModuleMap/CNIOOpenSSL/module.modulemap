@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/andyyoon/Documents/GitHub/hack-a-thing-2-swiftar/Blockchain/blockchain-web-api/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
